@@ -1,0 +1,10 @@
+D:\C#\SelectDB\SelectDB\bin\Debug\SelectDB.exe.config
+D:\C#\SelectDB\SelectDB\bin\Debug\SelectDB.exe
+D:\C#\SelectDB\SelectDB\bin\Debug\SelectDB.pdb
+D:\C#\SelectDB\SelectDB\obj\Debug\SelectDB.csprojAssemblyReference.cache
+D:\C#\SelectDB\SelectDB\obj\Debug\SelectDB.SelectDB.resources
+D:\C#\SelectDB\SelectDB\obj\Debug\SelectDB.Properties.Resources.resources
+D:\C#\SelectDB\SelectDB\obj\Debug\SelectDB.csproj.GenerateResource.cache
+D:\C#\SelectDB\SelectDB\obj\Debug\SelectDB.csproj.CoreCompileInputs.cache
+D:\C#\SelectDB\SelectDB\obj\Debug\SelectDB.exe
+D:\C#\SelectDB\SelectDB\obj\Debug\SelectDB.pdb
